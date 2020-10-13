@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1381101956 source:/home/jacob/CodeBlocks Projects/AVR/stringsynth/main.cpp
+	<avr/io.h>
+	<util/delay.h>
+	<util/atomic.h>
+	<stdlib.h>
+	<avr/interrupt.h>
+
